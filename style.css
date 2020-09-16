@@ -1,0 +1,9 @@
+div {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+div img {
+    flex:  0 0 50%;
+    height: 20rem;
+}
