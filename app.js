@@ -30,7 +30,16 @@ class WorkLists {
         new Works('modernGlassWoodenCenterTable.jpg'),
         new Works('morderLuxiriousCenterTable.jpg'),
         new Works('multiPurposeCenterTable.jpg'),
-        new Works('multipurposeModernCenterTable.jpg'),
+        new Works('sideTables/img.jpg'),
+        new Works('sideTables/img1.jpg'),
+        new Works('sideTables/img2.jpg'),
+        new Works('sideTables/img3.jpg'),
+        new Works('sideTables/img4.jpg'),
+        new Works('sideTables/img5.jpg'),
+        new Works('sideTables/img6.jpg'),
+        new Works('sideTables/img7.jpg'),
+        new Works('sideTables/img8.jpg'),
+        new Works('sideTables/img9.jpg'),
     ];
     
     render () {
