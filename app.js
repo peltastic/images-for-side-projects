@@ -46,6 +46,7 @@ class WorkLists {
         new Works('sofa/sofa3.jpg'),
         new Works('sofa/sofa4.jpg'),
         new Works('sofa/sofa5.jpg'),
+        new Works('sofa/sofa6.jpg'),
     ];
     
     render () {
