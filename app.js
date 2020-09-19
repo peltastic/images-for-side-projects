@@ -40,6 +40,12 @@ class WorkLists {
         new Works('sideTables/img7.jpg'),
         new Works('sideTables/img8.jpg'),
         new Works('sideTables/img9.jpg'),
+        new Works('sideTables/img9.jpg'),
+        new Works('sofa/sofa1.jpg'),
+        new Works('sofa/sofa2.jpg'),
+        new Works('sofa/sofa3.jpg'),
+        new Works('sofa/sofa4.jpg'),
+        new Works('sofa/sofa5.jpg'),
     ];
     
     render () {
