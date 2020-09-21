@@ -47,11 +47,11 @@ class WorkLists {
         new Works('sofa/sofa4.jpg'),
         new Works('sofa/sofa5.jpg'),
         new Works('sofa/sofa6.jpg'),
-        new Works('dTables/img1'),
-        new Works('dTables/img2'),
-        new Works('dTables/img3'),
-        new Works('dTables/img4'),
-        new Works('dTables/img5'),
+        new Works('dTables/img1.jpg'),
+        new Works('dTables/img2.jpg'),
+        new Works('dTables/img3.jpg'),
+        new Works('dTables/img4.jpg'),
+        new Works('dTables/img5.jpg'),
     ];
     
     render () {
